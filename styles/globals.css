@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+avatar {
+  margin-right: 1000;
+}
+
 * {
   box-sizing: border-box;
 }
+
